@@ -3,7 +3,7 @@
 <br></br>
 <p>
 <img alt="gif" align="right" widht="576" height="433"
-   src=""https://github.com/user-attachments/assets/a4fd006a-236d-400a-b0d2-4955ce6b021b" />
+   src="https://tenor.com/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739" />
 " />
 </p>
 
