@@ -1,5 +1,5 @@
 <h1 align="center">Bojour!! Saad this side💫💫</h1>
-<h3 align="center">Aspiring Software Engineer | Web Developer | Competitive Programmer | Pre-final Year ECE @ IIIT Nagpur🤖 </h3>
+<h3 align="center">Aspiring Software Engineer| Web Developer |Competitive Programmer |Pre-final Year ECE @ IIIT Nagpur🤖 </h3>
 <br></br>
 <p>
 <img alt="gif" align="right" widht="320" height="280"
