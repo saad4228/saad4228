@@ -3,7 +3,7 @@
 <br></br>
 <p>
 <img alt="gif" align="right" widht="320" height="280"
-   src="(https://tenor.com/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739)" />
+   src="https://tenor.com/view/hello-gojo-satoru-gojo-satoru-gif-7810568014399403739" />
 </p>
 
 - 🐾 I’m currently learning **Full Stack development and Data Structures and Algorithm**
