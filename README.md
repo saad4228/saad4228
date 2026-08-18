@@ -1,11 +1,11 @@
 <h1 align="center">Hello!!! Saad Here💫💫</h1>
-<h3 align="center">Aspiring Software Engineer | Web Developer | Competitive Programmer | Pre-final Year ECE @ IIIT Nagpur</h3>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | DSA & Competitive Programming | ECE @ IIIT Nagpur</h3>
 
 <br>
 
 <img align="right" src="https://media1.tenor.com/m/X9drSN03UMUAAAAd/satoru-gojo-acenando-satoru-gojo-hello.gif" width="380" />
 
-- 🐾 I'm currently learning **Full Stack development and Data Structures and Algorithm**
+- 🐾 I'm currently learning **Full-Stack Development and Data Structures and Algorithms**
 
 - 🤝 I'm looking to collaborate on **Web development projects**
 
@@ -106,7 +106,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad4228&theme=tokyonight&hide_border=true" alt="saad4228 streak" />
+  <img src="https://streak-stats.demolab.com/?user=saad4228&theme=tokyonight&hide_border=true" alt="saad4228 streak" />
 </div>
 
 <br>
