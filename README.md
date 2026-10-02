@@ -36,8 +36,11 @@
   <a href="https://leetcode.com/u/saad0905/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
   </a>
-  <a href="https://takeuforward.org/profile/saad_4228" target="_blank">
-  <img align="center" src="https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s900-c-k-c0x00ffffff-no-rj" height="40" width="40" />
+ <a href="https://takeuforward.org/profile/saad_4228" target="_blank">
+  <img align="center"
+       src="https://yt3.googleusercontent.com/zWP22vW7H0jp_T8DsXPgFtFs7ThqSPKBYUOWuPTPdxchmvX-Gr2WyB5AXhBHvQIcWvoDBK2Qgw=s900-c-k-c0x00ffffff-no-rj"
+       height="60"
+       width="60" />
 </a>
 </p>
 
